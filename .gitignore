@@ -1,0 +1,18 @@
+# Ren'Py compiled code
+**/*.rpyc
+# Python bytecode
+**/*.rpyb
+# Saves
+**/*.save
+# Text files
+log.txt
+errors.txt
+traceback.txt
+
+# Pdn files
+
+**/*.pdn
+
+# Image directory
+
+**/images/
